@@ -1,0 +1,94 @@
+20
+Dalila
+Dalila Mariana
+25
+f
+c
+Oliver Andrade dos Santos
+199
+19
+m
+e
+jose antonio
+16
+z
+m
+l
+maria eduarda
+19
+f
+x
+antonio carlos
+11
+19
+m
+y
+t
+Lidiane Silva
+140
+14
+15
+f
+g
+Roberto Menezes
+35
+m
+l
+Isabela Cardoso Moreira
+19
+f
+y
+e
+Paulo Eduardo 
+7
+42
+m
+p
+Andrey Bras
+23
+M
+A
+Arthur Ferreira
+27
+M
+T
+Eduardo tasim
+20
+M
+G
+Giovanna Cristiana
+18
+F
+C
+Bruno Andre
+17
+M
+L
+Gustavo Araujo
+17
+M
+I
+Maria Fernanda
+19
+F
+E
+Vinicyus Eduardo
+20
+M
+S
+Lucas Marinho
+21
+F
+P
+Samuel Boaventura
+15
+M
+Q
+Joao Pedro Silva
+21
+M
+X
+Cecilia Cristiana
+16
+F
+V
